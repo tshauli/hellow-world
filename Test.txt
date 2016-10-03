@@ -1,6 +1,4 @@
 UserA:1
 UserA:2
-UserB:1
-UserB:2
 UserA:3
 UserA:4
